@@ -22,3 +22,9 @@ We used the marketing A/B testing dataset designed to evaluate the effectiveness
 - **Segment:** Analyze the impact of ads on different demographics to tailor strategies.
 - **Monitor:** Continuously track conversion rates and test new ad approaches.
 - **Reallocate:** Shift budget from PSAs to ads to maximize conversion gains.
+
+
+## Access this Repository Through the Following Links:
+
+- Access to the [data here](https://github.com/Engelbert107/Marketing-AB-Testing/tree/main/data)
+- Access to the [notebook here](https://github.com/Engelbert107/Marketing-AB-Testing/tree/main/notebook)
