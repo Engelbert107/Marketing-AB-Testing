@@ -1,9 +1,8 @@
 # Marketing A/B Testing
 
 We used the marketing A/B testing dataset designed to evaluate the effectiveness of marketing campaigns by comparing two groups:
-
-    Experimental group exposed to ads.
-    Control group exposed to Public Service Announcements (PSAs) or nothing.
+- Experimental group exposed to ads.
+- Control group exposed to Public Service Announcements (PSAs) or nothing.
 
 ### Goals:
 
